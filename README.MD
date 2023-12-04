@@ -1,6 +1,6 @@
 ****PLEASE READ THIS BEFORE****
 
-Some algorithms if not all, would have a Profiler.h file included. This file is provided from our faculty to analyze the performance of the algorithms.
+Some algorithms if not all, would have a Profiler.h file included. This file is provided by our faculty to analyze the performance of the algorithms.
 
 
 ***I do not know if I have the permission to provide such a file as an open source***
